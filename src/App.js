@@ -9,6 +9,9 @@ import dhop from './components/dhop.jpg';
 import dj from './components/dj.jpg';
 import drake from './components/drake.jpg';
 import vance from './components/vance.jpeg';
+import aaron from './components/aaron.jpg';
+import greg from './components/greg.jpg';
+
 
 
 import Seif from './components/As';
@@ -51,6 +54,14 @@ class App extends Component {
         <img src={vance} className="App-logo" alt="logo" />
         <h2>Vance McDonald won the farm</h2>
         <img src={vance} className="App-logow" alt="logo" />
+
+        <img src={aaron} className="App-logo" alt="logo" />
+        <h2>Aaron Donald</h2>
+        <img src={aaron} className="App-logow" alt="logo" />
+
+        <img src={greg} className="App-logo" alt="logo" />
+        <h2>Greg Zuerlein</h2>
+        <img src={greg} className="App-logow" alt="logo" />
 
 
 

@@ -14,8 +14,6 @@ export class As extends Component {
         <h1> Elon's Blunt Musk </h1>
         <h2> 2018 Westlake Fantasy Football Champion </h2>
         <h3> Andrew Seif is batting 1000  </h3>
-
-
       </div>
     )
   }
