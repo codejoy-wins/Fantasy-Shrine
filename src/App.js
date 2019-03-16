@@ -11,6 +11,8 @@ import drake from './components/drake.jpg';
 import vance from './components/vance.jpeg';
 import aaron from './components/aaron.jpg';
 import greg from './components/greg.jpg';
+import woods from './components/woods.jpg';
+
 
 
 
@@ -50,6 +52,10 @@ class App extends Component {
         <img src={dhop} className="App-logo" alt="logo" />
         <h2>Deandre Hopkins</h2>
         <img src={dhop} className="App-logow" alt="logo" />
+
+        <img src={woods} className="App-logo" alt="logo" />
+        <h2>Robert Woods</h2>
+        <img src={woods} className="App-logow" alt="logo" />
 
         <img src={vance} className="App-logo" alt="logo" />
         <h2>Vance McDonald won the farm</h2>
